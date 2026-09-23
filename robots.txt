@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://y8mi6f.cn/sitemap.xml

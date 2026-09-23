@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2097d8ea8041c980d2797aef",
+  "owner": "ber4gyatf",
+  "repo": "page-a1a4bc84a0da8dec5cdeead6",
+  "title": "咸鱼云(XyCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a1a4bc84a0da8dec5cdeead6",
+      "a": "咸鱼云(XyCloud)",
+      "b": "稳定全球clash加速器",
+      "entity": "咸鱼云(XyCloud)",
+      "brand": "咸鱼云(XyCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d3b4d2149194cc16dde11233d7f022196c7226726021c6289d3c93a64055f9fa",
+      "content": {
+        "primary_entity": "咸鱼云(XyCloud)",
+        "keyword1": "咸鱼云(XyCloud)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，咸鱼云提供从基础版到团队版的多档订阅，基础版每月 15 元含 100GB 流量与 3 台设备，旗舰版每月 35 元含 300GB 流量、5 台设备与 IPLC 专线游戏加速优化，团队版每月 85 元含 1000GB 流量与 20 台设备。按年付可享更实惠价格，用户可依据设备数量、流量需求和流媒体或游戏场景选择合适套餐。",
+          "AI_HERO_SUBTITLE": "多档订阅，适配设备与流量需求",
+          "AI_HERO_INTRO": "咸鱼云(XyCloud)提供基础版、旗舰版和团队版三档订阅，覆盖从个人轻量使用到多设备团队协作的场景。按年付可享更实惠价格，订阅后可搭配主流客户端导入配置，按设备数量与流量需求选择合适的套餐。",
+          "AI_VISUAL_TITLE": "咸鱼云多档订阅畅享",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "支持按年付更实惠",
+          "AI_FEATURES_TITLE": "套餐与设备选择",
+          "AI_FEATURES_INTRO": "咸鱼云套餐以流量和同时在线设备数区分，选套餐时先看设备数量，再看月流量需求。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按常用设备数量选择即可。",
+          "AI_FEATURE_TITLE_2": "按流量需求选档",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，轻度使用选基础版更合适。",
+          "AI_FEATURE_TITLE_3": "年付更省",
+          "AI_FEATURE_TEXT_3": "基础版年付 150 元，旗舰版 350 元，团队版 850 元，长期使用可选年付方案。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同设备可搭配对应客户端，导入订阅后可查看节点与连接状态。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月含 100GB 与 3 台设备，旗舰版 ¥35/月含 300GB、5 台设备与 IPLC 专线优化，团队版 ¥85/月含 1000GB 与 20 台设备；按年付分别仅需 ¥150、¥350、¥850。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "先确定套餐，再查看适配要求，随后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TITLE_2": "查适配",
+          "AI_STEP_TEXT_2": "确认所用设备系统与客户端版本，查看该客户端对订阅配置的要求。",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅地址，完成后更新节点并选择合适线路。",
+          "AI_CLOSING_TITLE": "选对套餐，配置更顺手",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，按客户端文档完成订阅配置，即可开始使用咸鱼云。",
+          "AI_FAQ_ANSWER_1": "基础版含 100GB 月流量，旗舰版 300GB，团队版 1000GB；按需挑选即可。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台；同时在线数依套餐而定。",
+          "AI_FAQ_ANSWER_3": "旗舰版对游戏做了 IPLC 专线优化，团队版提供 VIP 高带宽节点，可优先考虑。",
+          "AI_FAQ_ANSWER_4": "年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，可按周期选择。",
+          "AI_FAQ_ANSWER_5": "先确认设备数量与流量需求，再对照套餐列表选定档位，下载匹配客户端导入订阅。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐的月流量分别有多少？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "玩游戏选哪个套餐更合适？",
+          "AI_FAQ_QUESTION_4": "按月付与按年付价格差多少？",
+          "AI_FAQ_QUESTION_5": "从挑选到开始使用需要做哪些步骤？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "y8mi6f.cn",
+    "host": "y8mi6f.cn"
+  },
+  "file_hashes": {
+    "index.html": "37c35dc9b15f036fe5162344c9def979ce6fb1524a6cf4fcaf0896e9b8dd083d",
+    "sitemap.xml": "ad034aedd654407b1393ade1d7506939ceb26818a0496310748ea4a4cf0a065f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3b13ef4078e13362e64ce78d5b9d60ced09570178a8cedfb1ac3e213ac2e9b17",
+    "robots.txt": "49b056d6b7f05ea5294601f001116f08e28eeb2440811b08b00bc378fab77c6b",
+    "20d9c53260854fb6320d81f22b1968d6.txt": "1ed2a2928faa1cffc37cefed595f91617fced50e127bd8ab71b3fbada9da7881"
+  },
+  "revision": "a5eeaba5b8c9bb5cb9a7201cf805e692692c6e7ff19a16a70db0ce8ac74f8268"
+}
